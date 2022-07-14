@@ -7,7 +7,7 @@
 	<p>Designs, coding, and writes about IT Security, ethics, research, and dev.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
-	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
+	<a href="https://www.parrotsec.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Parrot_Logo.png" /></a>
   <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
   <br />
