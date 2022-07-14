@@ -30,9 +30,6 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
-      <code><img href="#" title="C" height="25" src="images/c.svg"></code>
-      <code><img href="#" title="C++" height="25" src="images/cpp.svg"></code>
-      <code><img href="#" title="C#" height="25" src="images/cSharp.svg"></code>
       <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
       <code><img href="#" title="Django" height="25" src="images/django.png"></code>
       <code><img href="#" title="Problem Solving" height="25" src="images/problemSolving.png"></code>
