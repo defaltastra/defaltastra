@@ -9,9 +9,7 @@
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
 	<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Distro-Ubuntu-orange?style=flat&logo=ubuntu" /></a>
   <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
-	<a href="https://gohugo.io/"><img src="https://img.shields.io/badge/Build-Hugo-e06c75?style=flat&logo=hugo" /></a>
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
-	<a href="https://forestry.io/"><img src="https://img.shields.io/badge/CMS-Forestry-red?style=flat&logo=forestry" /></a>
   <br />
 	<a href="https://github.com/defaltastra"><img src="https://img.shields.io/github/followers/defaltastra?label=Github&style=social" /></a>
 	<a href="mailto:defaltastra@gmail.com/"><img src="https://img.shields.io/badge/Email-defaltastra@gmail.com-e06c75?style=social&logo=gmail" /></a>
