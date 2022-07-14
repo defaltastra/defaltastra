@@ -4,7 +4,7 @@
 <div align="center">
 	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Defaltastra!" /></h1>
   <br />
-	<p>Designs, coding, and writes about IT Security, ethics, research, and dev.</p>
+	<p>Coding, and writes about ethics, research, and dev.</p>
 	<br />
 	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
 	<a href="https://www.parrotsec.org/"><img src="https://img.shields.io/debian/v/apt/unstable" /></a>
