@@ -22,8 +22,7 @@
   <!-- wi*quL3fcV -->
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaltastra&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
   <br />
-<details>
-	<summary>Show All</summary>
+
   <br />
     <img src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
     <h2>🔥 Languages & Framework 🔥</h2><br />
