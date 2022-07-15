@@ -2,7 +2,7 @@
   <img src="https://visitcount.itsvg.in/api?id=defaltastra&label=Visitors&color=6&icon=5&pretty=true" />
 </a>
 <div align="center">
-	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Defaltastra!" /></h1>
+	<h1><img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=F75656&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Defaltastra!💻" /></h1>
   <br />
 	<p>Coding, and writes about ethics, research, and dev.</p>
 	<br />
