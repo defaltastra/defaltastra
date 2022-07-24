@@ -6,8 +6,7 @@
   <br />
 	<p>Coding, and writes about ethics, research, and dev.</p>
 	<br />
-	<a href="https://www.linux.org"><img src="https://img.shields.io/badge/OS-Linux-yellow?style=flat&logo=linux" /></a>
-	<a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/ParrotOs-blue" /></a>
+	<a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/OS-ParrotOS-blue?style=flat&logo=linux" /></a>
   <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
   <br />
