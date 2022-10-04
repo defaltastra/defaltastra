@@ -17,7 +17,7 @@
     <code><a href="https://www.instagram.com/astra_defalt/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
   </h5>
-  <img height="135px" src="https://github-readme-stats.vercel.app/api?username=defaltastra&count_private=true&show_icons=true&bg_color=0,52fa5a,4dfcff,c64dff&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true&line_height=18layout=compact" />
+  <img height="135px" src="![Defaltastra's GitHub stats](https://github-readme-stats.vercel.app/api?username=defaltastra&show_icons=true&theme=merko)"/>
   <!-- wi*quL3fcV -->
   <img height="135px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=defaltastra&count_private=true&show_icons=true&bg_color=0,c64dff,4dfcff,52fa5a&theme=synthwave&text_color=4C4C4C&icon_color=267AAB&title_color=170DB2&hide_border=true" />
   <br />
