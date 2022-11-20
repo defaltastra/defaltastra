@@ -27,7 +27,7 @@
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
       <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
-      <code><img href="#" title="Django" height="25" src="images/django.png"></code>
+      <code><img href="#" title="Laravel" height="25" src="images/1200px-Laravel.svg.png"></code>
       <code><img href="#" title="Problem Solving" height="25" src="images/problemSolving.png"></code>
       <code><img href="#" title="Visual Studio Code" height="25" src="images/vscode.png"></code>
       <code><img href="#" title="Android" height="25" src="images/android.svg"></code>
