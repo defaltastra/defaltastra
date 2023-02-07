@@ -18,8 +18,11 @@
     <br /><br />
   </h5>
 
-  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=defaltastra&theme=react&line_height=40&hide=css"/> </a>
-  <br />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defaltastra&show_icons=true&locale=en&layout=compact" alt="defaltastra" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defaltastra&show_icons=true&locale=en" alt="defaltastra" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defaltastra&" alt="defaltastra" /></p>
 
   <br />
         <img src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
