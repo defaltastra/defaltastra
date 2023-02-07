@@ -17,7 +17,6 @@
     <code><a href="https://www.instagram.com/astra_defalt/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
   </h5>
-  <a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YulietM&show_icons=true&theme=dark) /></a>
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=defaltastra&theme=react&line_height=40&hide=css"/> </a>
   <br />
 
