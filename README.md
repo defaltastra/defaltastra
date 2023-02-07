@@ -18,7 +18,7 @@
     <br /><br />
   </h5>
 
-<p><img align="left" src="http://vercel-defaltastra.vercel.app/api?username=defaltastra&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="defaltastra" /></p>
+<p><img align="left" src="http://vercel-git-main-defaltastra.vercel.app/api?username=defaltastra&theme=merko&hide_border=false&include_all_commits=false&count_private=false" alt="defaltastra" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defaltastra&theme=tokyonight&hide_border=false" alt="defaltastra" /></p>
 
