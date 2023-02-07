@@ -19,7 +19,7 @@
   </h5>
   <a "![Defaltastra's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=defaltastra&theme=merko&show_icons=true)" /></a>
   <!-- wi*quL3fcV -->
-  <img height="269px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=defaltastra&theme=react&line_height=40&hide=css" />
+  <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=defaltastra&theme=react&line_height=40&hide=css"/> </a>
   <br />
 
   <br />
