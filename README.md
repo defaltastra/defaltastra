@@ -17,11 +17,12 @@
     <code><a href="https://www.instagram.com/astra_defalt/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
     <br /><br />
   </h5>
+
   <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=defaltastra&theme=react&line_height=40&hide=css"/> </a>
   <br />
 
   <br />
-    <img src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
+    
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
       <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
