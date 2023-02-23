@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defaltastra&show_icons=true&theme=tokyonight&locale=en" alt="defaltastra" /></p>
 
   <br />
-        <img hidden src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
+        <img hidden="hidden" src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
     <h2>🔥 Languages & Framework 🔥</h2><br />
     <p>
       <code><img href="#" title="Python" height="25" src="images/python-original.svg"></code>
