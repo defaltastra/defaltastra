@@ -21,7 +21,9 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=defaltastra&theme=tokyonight&hide_border=false" alt="defaltastra" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=defaltastra&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="defaltastra" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=defaltastra&show_icons=true&theme=tokyonight&locale=en" alt="defaltastra" /></p>
 
   <br />
         <img src="https://activity-graph.herokuapp.com/graph?username=defaltastra&theme=react-dark&bg_color=20232a&hide_border=true" />
