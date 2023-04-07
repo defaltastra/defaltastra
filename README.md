@@ -37,7 +37,6 @@
       <code><img href="#" title="Android" height="25" src="images/android.svg"></code>
       <code><img href="#" title="GitHub" height="25" src="images/github.svg"></code>
       <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
-      
     </p>
 </details>
 </div>
