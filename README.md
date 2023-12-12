@@ -6,8 +6,8 @@
   <br />
 	<p>Coding, and writes about ethics, research, and dev.</p>
 	<br />
-	<a href="https://www.parrotsec.org/"><img src="https://img.shields.io/badge/OS-ParrotOS-blue?style=flat&logo=linux" /></a>
-  <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Chrome-blue?style=flat&logo=google-chrome" /></a>
+	<a href="https://endeavouros.com/"><img src="https://img.shields.io/badge/OS-EndeavourOS-purple?style=flat&logo=linux" /></a>
+  <a href="https://www.google.co.id/chrome/"><img src="https://img.shields.io/badge/Browser-Librewolf-blue?style=flat&logo=firefox" /></a>
 	<a href="https://netlify.app/"><img src="https://img.shields.io/badge/Deploy-Netlify-cyan?style=flat&logo=netlify" /></a>
   <br />
 	<a href="https://github.com/defaltastra"><img src="https://img.shields.io/github/followers/defaltastra?label=Github&style=social" /></a>
@@ -37,6 +37,7 @@
       <code><img href="#" title="Android" height="25" src="images/android.svg"></code>
       <code><img href="#" title="GitHub" height="25" src="images/github.svg"></code>
       <code><img href="#" title="PHP" height="25" src="images/php.svg"></code>
+       <code><img href="#" title="C#" height="25" src="images/csharp.svg"></code>
     </p>
 </details>
 </div>
