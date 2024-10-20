@@ -1,6 +1,6 @@
 
 ## 👓 Visitors
-![Divergence Meter](https://fire-chambray-haumea.glitch.me/counter)
+![Divergence Meter](https://el-psy-kangoroo.glitch.me/counter)
 
 
 
