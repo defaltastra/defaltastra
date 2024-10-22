@@ -1,6 +1,6 @@
 
 ## 👓 Visitors
-![Divergence Meter](https://el-psy-kangoroo.glitch.me/counter?random=123456)
+![Divergence Meter](https://el-psy-kangoroo.glitch.me/counter)
 
 
 
