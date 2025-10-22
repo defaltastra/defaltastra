@@ -36,7 +36,7 @@
   <br /><br />
 
   <!-- Stats -->
-  <a href="https://git.io/streak-stats"><img src="http://streak.defaltastra.duckdns.org?user=defaltastra&theme=gruvbox" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="http://streak.defaltastra.freeddns.org?user=defaltastra&theme=gruvbox" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=defaltastra&show_icons=true&theme=gruvbox&layout=compact" alt="langs" />
   <img src="https://github-readme-stats.vercel.app/api?username=defaltastra&show_icons=true&theme=gruvbox" alt="stats" />
 
