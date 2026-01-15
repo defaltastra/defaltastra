@@ -38,8 +38,10 @@
   <!-- Stats -->
   [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=defaltastra&theme=gruvbox)](https://git.io/streak-stats)
   <br />
-  <img src="https://github-readme-stats-2mdw531su-defaltastras-projects.vercel.app/api/top-langs?username=defaltastra&show_icons=true&theme=gruvbox&layout=compact" alt="langs" />
-  <img src="https://github-readme-stats-2mdw531su-defaltastras-projects.vercel.app/api?username=defaltastra&show_icons=true&theme=gruvbox" alt="stats" />
+<img src="https://defaltastra.vercel.app/api/top-langs?username=defaltastra&show_icons=true&theme=gruvbox&layout=compact" alt="langs" />
+
+<img src="https://defaltastra.vercel.app/api?username=defaltastra&show_icons=true&theme=gruvbox" alt="stats" />
+
 
   <br /><br />
 
